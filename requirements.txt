@@ -1,0 +1,12 @@
+notebook
+python-dotenv
+ipywidgets
+numpy
+pandas
+requests
+PyMuPDF
+langchain
+sentence_transformers
+tqdm==4.66.2
+chromadb
+google-generativeai
