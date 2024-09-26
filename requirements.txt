@@ -2,9 +2,9 @@ notebook
 python-dotenv
 ipywidgets
 numpy
-pandas
 requests
 PyMuPDF
+spacy
 langchain
 sentence_transformers
 tqdm==4.66.2
